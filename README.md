@@ -1,9 +1,11 @@
 # Robotics Assessment One
 
 Student Name: Lewis Taylor
+
 Student ID: C1009129
 
-Video Link (5:26) - https://youtu.be/mOQSVMRQYEw
+# Video Link (also included in the uploaded files, GitHub wouldn't let me directly upload as the recording is >25MB)
+https://youtu.be/mOQSVMRQYEw
 
 # Tasks undertaken
 - All basic requirements
