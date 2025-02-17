@@ -14,10 +14,10 @@ Video Link (5:26) - https://youtu.be/mOQSVMRQYEw
 # Structure of the code
 The program consists of four classes:
 
-Point: This class represents a 250mm x 250mm square of the maze, and holds the information for the walls
-Maze: This is a class containing the Points needed to represent the whole maze
-Solver: This class contains the code to take in a maze object and return the fastest path to the exit using a breadth first search
-Robot: This class is used to control the robot, such as moving ad turning, and holding the stack of points and directions needed to get to the current point, forming a depth first search traversal method.
+- Point: This class represents a 250mm x 250mm square of the maze, and holds the information for the walls
+- Maze: This is a class containing the Points needed to represent the whole maze
+- Solver: This class contains the code to take in a maze object and return the fastest path to the exit using a breadth first search
+- Robot: This class is used to control the robot, such as moving ad turning, and holding the stack of points and directions needed to get to the current point, forming a depth first search traversal method.
 
 # Potential Improvements
 
